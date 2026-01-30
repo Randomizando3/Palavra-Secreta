@@ -1,0 +1,127 @@
+########################################
+# OS
+########################################
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+########################################
+# Visual Studio
+########################################
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+########################################
+# Build results
+########################################
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+########################################
+# .NET / MAUI
+########################################
+*.dll
+*.pdb
+*.cache
+*.nupkg
+*.snupkg
+*.deps.json
+*.runtimeconfig.json
+
+########################################
+# Rider / JetBrains
+########################################
+.idea/
+*.sln.iml
+
+########################################
+# Android
+########################################
+*.apk
+*.aab
+*.keystore
+*.jks
+android.keystore
+key.properties
+
+########################################
+# iOS / Mac
+########################################
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj
+DerivedData/
+build/
+
+########################################
+# Windows / MSIX / Packaging
+########################################
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+AppPackages/
+BundleArtifacts/
+
+########################################
+# MAUI Generated
+########################################
+MauiProgram.g.cs
+Resources/**/obj/
+Resources/**/bin/
+
+########################################
+# Temporary / cache
+########################################
+*.tmp
+*.temp
+*.bak
+*.old
+*.swp
+
+########################################
+# User local data (IMPORTANTE)
+########################################
+# Banco gerado em runtime
+word_bank.json
+
+# AppData local (Windows)
+AppData/
+LocalState/
+TempState/
+
+########################################
+# Test / coverage
+########################################
+TestResults/
+coverage/
+coverage.xml
+coverage.json
+
+########################################
+# Publish
+########################################
+publish/
+artifacts/
+
+########################################
+# Node / frontend (se usar futuramente)
+########################################
+node_modules/
+dist/
+.env
+.env.local
+
+########################################
+# Misc
+########################################
+*.zip
+*.rar
+*.7z

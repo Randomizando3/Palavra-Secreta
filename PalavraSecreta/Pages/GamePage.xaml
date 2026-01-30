@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="PalavraSecreta.Pages.GamePage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Jogar"
+    BackgroundColor="#111111">
+
+    <Grid RowDefinitions="Auto,*" Padding="12" RowSpacing="10">
+
+        <!-- topo -->
+        <Frame Grid.Row="0"
+               BackgroundColor="#1A1A1A"
+               BorderColor="#333333"
+               CornerRadius="16"
+               Padding="12">
+
+            <Grid ColumnDefinitions="*,Auto,Auto" ColumnSpacing="10" RowDefinitions="Auto,Auto" RowSpacing="8">
+
+                <Picker x:Name="ThemePicker"
+                        Grid.Row="0"
+                        Grid.Column="0"
+                        Title="Tema"
+                        TextColor="White"
+                        BackgroundColor="#222222"
+                        SelectedIndexChanged="OnThemeChanged" />
+
+                <Picker x:Name="CountPicker"
+                        Grid.Row="0"
+                        Grid.Column="1"
+                        WidthRequest="90"
+                        Title="Qtd"
+                        TextColor="White"
+                        BackgroundColor="#222222"
+                        SelectedIndexChanged="OnCountChanged" />
+
+                <Button Grid.Row="0"
+                        Grid.Column="2"
+                        Text="Gerar"
+                        Clicked="OnStart"
+                        BackgroundColor="#E53935"
+                        TextColor="White"
+                        CornerRadius="12"
+                        Padding="14,10" />
+
+                <Label x:Name="LensLabel"
+                       Grid.Row="1"
+                       Grid.ColumnSpan="3"
+                       Text="Lupa: red"
+                       TextColor="#CCCCCC"
+                       FontSize="12" />
+            </Grid>
+        </Frame>
+
+        <!-- board -->
+        <Frame Grid.Row="1"
+               BackgroundColor="White"
+               BorderColor="#333333"
+               CornerRadius="16"
+               Padding="0">
+            <GraphicsView x:Name="BoardView"
+                          VerticalOptions="FillAndExpand"
+                          HorizontalOptions="FillAndExpand"
+                          HeightRequest="400" />
+        </Frame>
+
+    </Grid>
+</ContentPage>

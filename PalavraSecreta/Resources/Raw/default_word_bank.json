@@ -1,0 +1,440 @@
+﻿{
+  "version": 1,
+  "items": [
+    {
+      "theme": "Animais",
+      "baseWord": "CANGURU",
+      "revealedWord": "GURU",
+      "hiddenStart": 0,
+      "hiddenLength": 3,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Animais",
+      "baseWord": "FOCA",
+      "revealedWord": "OCA",
+      "hiddenStart": 0,
+      "hiddenLength": 3,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Animais",
+      "baseWord": "CARNEIRO",
+      "revealedWord": "CARNE",
+      "hiddenStart": 5,
+      "hiddenLength": 3,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Animais",
+      "baseWord": "GALINHA",
+      "revealedWord": "LINHA",
+      "hiddenStart": 0,
+      "hiddenLength": 2,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Animais",
+      "baseWord": "CORUJA",
+      "revealedWord": "COR",
+      "hiddenStart": 3,
+      "hiddenLength": 2,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Animais",
+      "baseWord": "MACACO",
+      "revealedWord": "MACA",
+      "hiddenStart": 4,
+      "hiddenLength": 2,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Animais",
+      "baseWord": "OVELHA",
+      "revealedWord": "VELHA",
+      "hiddenStart": 0,
+      "hiddenLength": 1,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Animais",
+      "baseWord": "MORCEGO",
+      "revealedWord": "CEGO",
+      "hiddenStart": 0,
+      "hiddenLength": 3,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Animais",
+      "baseWord": "JAVALI",
+      "revealedWord": "JAVA",
+      "hiddenStart": 4,
+      "hiddenLength": 2,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Animais",
+      "baseWord": "TUCANO",
+      "revealedWord": "CANO",
+      "hiddenStart": 0,
+      "hiddenLength": 2,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Animais",
+      "baseWord": "BESOURO",
+      "revealedWord": "OURO",
+      "hiddenStart": 0,
+      "hiddenLength": 3,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Animais",
+      "baseWord": "TUBARÃO",
+      "revealedWord": "BARÃO",
+      "hiddenStart": 0,
+      "hiddenLength": 2,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+
+    {
+      "theme": "Frutas",
+      "baseWord": "BANANAS",
+      "revealedWord": "BANANA",
+      "hiddenStart": 6,
+      "hiddenLength": 1,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Frutas",
+      "baseWord": "LARANJAS",
+      "revealedWord": "LARANJA",
+      "hiddenStart": 7,
+      "hiddenLength": 1,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Frutas",
+      "baseWord": "MORANGOS",
+      "revealedWord": "MORANGO",
+      "hiddenStart": 7,
+      "hiddenLength": 1,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Frutas",
+      "baseWord": "MELANCIAS",
+      "revealedWord": "MELANCIA",
+      "hiddenStart": 8,
+      "hiddenLength": 1,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Frutas",
+      "baseWord": "ABACAXIS",
+      "revealedWord": "ABACAXI",
+      "hiddenStart": 7,
+      "hiddenLength": 1,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Frutas",
+      "baseWord": "ABACATES",
+      "revealedWord": "ABACATE",
+      "hiddenStart": 7,
+      "hiddenLength": 1,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Frutas",
+      "baseWord": "GOIABAS",
+      "revealedWord": "GOIABA",
+      "hiddenStart": 6,
+      "hiddenLength": 1,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Frutas",
+      "baseWord": "MANGAS",
+      "revealedWord": "MANGA",
+      "hiddenStart": 5,
+      "hiddenLength": 1,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Frutas",
+      "baseWord": "PERAS",
+      "revealedWord": "PERA",
+      "hiddenStart": 4,
+      "hiddenLength": 1,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Frutas",
+      "baseWord": "UVAS",
+      "revealedWord": "UVA",
+      "hiddenStart": 3,
+      "hiddenLength": 1,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Frutas",
+      "baseWord": "COCOS",
+      "revealedWord": "COCO",
+      "hiddenStart": 4,
+      "hiddenLength": 1,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Frutas",
+      "baseWord": "KIWIS",
+      "revealedWord": "KIWI",
+      "hiddenStart": 4,
+      "hiddenLength": 1,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+
+    {
+      "theme": "Objetos",
+      "baseWord": "TECLADO",
+      "revealedWord": "TECLA",
+      "hiddenStart": 5,
+      "hiddenLength": 2,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Objetos",
+      "baseWord": "CELULAR",
+      "revealedWord": "LAR",
+      "hiddenStart": 0,
+      "hiddenLength": 4,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Objetos",
+      "baseWord": "GARRAFA",
+      "revealedWord": "GARRA",
+      "hiddenStart": 5,
+      "hiddenLength": 2,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Objetos",
+      "baseWord": "TOMADA",
+      "revealedWord": "TOMA",
+      "hiddenStart": 4,
+      "hiddenLength": 2,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Objetos",
+      "baseWord": "COMPUTADOR",
+      "revealedWord": "DOR",
+      "hiddenStart": 0,
+      "hiddenLength": 7,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Objetos",
+      "baseWord": "CANETA",
+      "revealedWord": "NETA",
+      "hiddenStart": 0,
+      "hiddenLength": 2,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Objetos",
+      "baseWord": "TELEVISÃO",
+      "revealedWord": "VISÃO",
+      "hiddenStart": 0,
+      "hiddenLength": 4,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Objetos",
+      "baseWord": "GUARDACHUVA",
+      "revealedWord": "GUARDA",
+      "hiddenStart": 6,
+      "hiddenLength": 5,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Objetos",
+      "baseWord": "MICROONDAS",
+      "revealedWord": "ONDAS",
+      "hiddenStart": 0,
+      "hiddenLength": 5,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Objetos",
+      "baseWord": "CHAVEIRO",
+      "revealedWord": "CHAVE",
+      "hiddenStart": 5,
+      "hiddenLength": 3,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Objetos",
+      "baseWord": "PANELA",
+      "revealedWord": "NELA",
+      "hiddenStart": 0,
+      "hiddenLength": 2,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Objetos",
+      "baseWord": "SAPATO",
+      "revealedWord": "PATO",
+      "hiddenStart": 0,
+      "hiddenLength": 2,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+
+    {
+      "theme": "Outros",
+      "baseWord": "ESCOLA",
+      "revealedWord": "COLA",
+      "hiddenStart": 0,
+      "hiddenLength": 2,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Outros",
+      "baseWord": "PAREDE",
+      "revealedWord": "PARE",
+      "hiddenStart": 4,
+      "hiddenLength": 2,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Outros",
+      "baseWord": "CARTAZ",
+      "revealedWord": "CARTA",
+      "hiddenStart": 5,
+      "hiddenLength": 1,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Outros",
+      "baseWord": "TELEFONE",
+      "revealedWord": "FONE",
+      "hiddenStart": 0,
+      "hiddenLength": 4,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Outros",
+      "baseWord": "REPOLHO",
+      "revealedWord": "OLHO",
+      "hiddenStart": 0,
+      "hiddenLength": 3,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Outros",
+      "baseWord": "PARALELO",
+      "revealedWord": "PARA",
+      "hiddenStart": 4,
+      "hiddenLength": 4,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Outros",
+      "baseWord": "CUIDADO",
+      "revealedWord": "DADO",
+      "hiddenStart": 0,
+      "hiddenLength": 3,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Outros",
+      "baseWord": "ANTEBRAÇO",
+      "revealedWord": "BRAÇO",
+      "hiddenStart": 0,
+      "hiddenLength": 4,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Outros",
+      "baseWord": "CORRIDA",
+      "revealedWord": "COR",
+      "hiddenStart": 3,
+      "hiddenLength": 4,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Outros",
+      "baseWord": "FATIADOR",
+      "revealedWord": "FATIA",
+      "hiddenStart": 5,
+      "hiddenLength": 3,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Outros",
+      "baseWord": "CABELO",
+      "revealedWord": "CABE",
+      "hiddenStart": 4,
+      "hiddenLength": 2,
+      "hiddenColor": "red",
+      "source": "default"
+    },
+    {
+      "theme": "Outros",
+      "baseWord": "BRINCADEIRA",
+      "revealedWord": "BRINCA",
+      "hiddenStart": 6,
+      "hiddenLength": 5,
+      "hiddenColor": "red",
+      "source": "default"
+    }
+  ]
+}
