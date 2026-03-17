@@ -1,39 +1,39 @@
 # Palavra Secreta
 
 ## English
-Palavra Secreta is a .NET MAUI app for generating and playing secret word challenges, organized into generation and gameplay tabs.
+.NET MAUI app for generating and playing secret word challenges, organized into generation and gameplay tabs.
 
-### What is currently in the repository
-- A generation flow
-- A gameplay flow
-- A local default word bank
+### Current structure
+- Generation flow
+- Gameplay flow
+- Local default word bank
 - Services for word generation and board rendering
 
-### Main structure
+### Main files
 - `Pages/GeneratorPage.xaml`: generation flow
 - `Pages/GamePage.xaml`: gameplay flow
 - `Services`: generation and word bank services
-- `Resources/Raw/default_word_bank.json`: default local word source
+- `Resources/Raw/default_word_bank.json`: local word source
 
 ### Run locally
 1. Open `PalavraSecreta/PalavraSecreta.sln` in Visual Studio 2022.
 2. Install the .NET MAUI workload.
 3. Restore packages and run on the desired platform.
 
-## PortuguÃªs
-Palavra Secreta Ã© um app em .NET MAUI para gerar e jogar desafios de palavra secreta, organizado em abas de geraÃ§Ã£o e jogabilidade.
+## Português
+App em .NET MAUI para gerar e jogar desafios de palavra secreta, organizado em abas de geração e jogabilidade.
 
-### O que existe hoje no repositÃ³rio
-- Um fluxo de geraÃ§Ã£o
-- Um fluxo principal de jogo
-- Um banco local de palavras padrÃ£o
-- ServiÃ§os para geraÃ§Ã£o de palavras e renderizaÃ§Ã£o do tabuleiro
+### Estrutura atual
+- Fluxo de geração
+- Fluxo principal de jogo
+- Banco local de palavras padrão
+- Serviços para geração de palavras e renderização do tabuleiro
 
-### Estrutura principal
-- `Pages/GeneratorPage.xaml`: fluxo de geraÃ§Ã£o
+### Arquivos principais
+- `Pages/GeneratorPage.xaml`: fluxo de geração
 - `Pages/GamePage.xaml`: fluxo de jogo
-- `Services`: serviÃ§os de geraÃ§Ã£o e banco de palavras
-- `Resources/Raw/default_word_bank.json`: fonte local padrÃ£o de palavras
+- `Services`: serviços de geração e banco de palavras
+- `Resources/Raw/default_word_bank.json`: fonte local de palavras
 
 ### Executando localmente
 1. Abra `PalavraSecreta/PalavraSecreta.sln` no Visual Studio 2022.
