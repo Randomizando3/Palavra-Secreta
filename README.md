@@ -1,27 +1,41 @@
 # Palavra Secreta
 
-Aplicativo em .NET MAUI para gerar e jogar desafios de palavra secreta, com modos de geracao e jogo organizados em abas.
+## English
+Palavra Secreta is a .NET MAUI app for generating and playing secret word challenges, organized into generation and gameplay tabs.
 
-## O que existe hoje
+### What is currently in the repository
+- A generation flow
+- A gameplay flow
+- A local default word bank
+- Services for word generation and board rendering
 
-- Aba para gerar desafios
-- Aba para jogar
-- Banco local de palavras padrao
-- Servicos para geracao de palavras e desenho do tabuleiro
+### Main structure
+- `Pages/GeneratorPage.xaml`: generation flow
+- `Pages/GamePage.xaml`: gameplay flow
+- `Services`: generation and word bank services
+- `Resources/Raw/default_word_bank.json`: default local word source
 
-## Estrutura principal
+### Run locally
+1. Open `PalavraSecreta/PalavraSecreta.sln` in Visual Studio 2022.
+2. Install the .NET MAUI workload.
+3. Restore packages and run on the desired platform.
 
-- `Pages/GeneratorPage.xaml`: fluxo de geracao
-- `Pages/GamePage.xaml`: fluxo principal do jogo
-- `Services`: integracoes de geracao e banco local
-- `Resources/Raw/default_word_bank.json`: base padrao de palavras
+## PortuguÃªs
+Palavra Secreta Ã© um app em .NET MAUI para gerar e jogar desafios de palavra secreta, organizado em abas de geraÃ§Ã£o e jogabilidade.
 
-## Como executar
+### O que existe hoje no repositÃ³rio
+- Um fluxo de geraÃ§Ã£o
+- Um fluxo principal de jogo
+- Um banco local de palavras padrÃ£o
+- ServiÃ§os para geraÃ§Ã£o de palavras e renderizaÃ§Ã£o do tabuleiro
 
+### Estrutura principal
+- `Pages/GeneratorPage.xaml`: fluxo de geraÃ§Ã£o
+- `Pages/GamePage.xaml`: fluxo de jogo
+- `Services`: serviÃ§os de geraÃ§Ã£o e banco de palavras
+- `Resources/Raw/default_word_bank.json`: fonte local padrÃ£o de palavras
+
+### Executando localmente
 1. Abra `PalavraSecreta/PalavraSecreta.sln` no Visual Studio 2022.
 2. Instale o workload do .NET MAUI.
-3. Restaure os pacotes e rode na plataforma desejada.
-
-## Observacao
-
-Se houver integracao com IA ou API externa, configure as chaves apenas no ambiente local e nunca no README.
+3. Restaure os pacotes e execute na plataforma desejada.
